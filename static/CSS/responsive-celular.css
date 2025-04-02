@@ -27,8 +27,8 @@
     .container-user{
         position: absolute;
         top: 10px;
-        left: 70%;
-        width: 115px;
+        left: 65%;
+        width: 110px;
         align-items: center;
         color: #fff;
     }
@@ -113,7 +113,7 @@
         margin: auto;
         margin-top: 69px;
         border-radius: 8px;
-        font-size: 10px;
+        font-size: 8px;
         padding: 2px 8px;
     }
 
